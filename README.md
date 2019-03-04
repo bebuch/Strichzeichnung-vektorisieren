@@ -6,7 +6,7 @@ Deutschsprachige Anleitung zur Digitalisierung und Vektorisierung von Strichzeic
 - Linien mit einem schwarzen Stift (z.B. Fineliner) nachziehen
 - Zeichnung bildfüllend fotografieren
     - Zeichnung sollte einigermaßen gleichmäßig ausgeleuchtet sein (Schatten vermeiden)
-    - Bild sollte scharf sein, ggf. Fotoapperat durch Bücherstapen stabilisieren
+    - Bild sollte scharf sein, ggf. Fotoapperat durch Bücherstapel stabilisieren
 - Bild mit Gimp öffnen
 - Bild drehen und beschneiden
 - Rechtsklick -> Bild -> Modus -> Graustufen
